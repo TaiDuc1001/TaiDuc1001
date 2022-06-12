@@ -47,7 +47,16 @@
 </div>
 <br>	
 	
-	
+<h2 align="center">👜 Cloud Storage 👜</h2>
+<br>
+<div align="center">
+    <div>
+        <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white&style=plastic" alt="Dropbox" height="30" />
+        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&style=plastic" alt="Google Drive" height="30" />
+        <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white&style=plastic" alt="Mega" height="30" />
+		
+</div>
+<br>	
 	
 <h2 align="center">🤴 Developer/Forums 🤴</h2>
 <br>
