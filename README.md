@@ -14,7 +14,8 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" alt="Github" height="25" />
+        <img src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="Github" height="25" />
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25" />
     </div>
 <br>
 
@@ -92,12 +93,33 @@
   
 </div>
 <br>
-
-
+    
+<h2 align="center">🔎 Search Engines 🔎</h2>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white" alt="Bing" height="25"/>
+    <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white" alt="DuckDuckGo" height="25" />
+    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" height="25"/>
+  
+</div>
+<br>
+  
+<h2 align="center">🎛️ Operating System 🎛️</h2>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="25"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="25" />
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" height="25"/>
+  
+</div>
+<br>    
+    
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <div align="center">
-    <a href="https://www.facebook.com/profile.php?id=100053951509859" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25" ></a>
+    <a href="https://www.facebook.com/profile.php?id=100053951509859" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25" ></a>
     <a href="mailto:phantaiduc2005@duck.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" ></a>
-    <a href="https://www.kaggle.com/ducphan1001" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height="25" ></a>
+    <a href="https://www.kaggle.com/ducphan1001" target="top"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height="25" ></a>
+    <a href="https://linktr.ee/ducphan" target="top"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" height="25" ></a>
+    <a href="https://t.me/ducky1001" target="top"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" ></a>
 </div>
