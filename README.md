@@ -4,8 +4,8 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic" alt="Python" height="25" />
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic" alt="C" height="25" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic" alt="Python" height="30" />
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic" alt="C" height="30" />
     </div>
 </div>
 <br>
@@ -14,7 +14,7 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=plastic" alt="Github" height="25" />
+        <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=plastic" alt="Github" height="30" />
     </div>
 <br>
 
@@ -22,7 +22,7 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=plastic" alt="Micrsoft SQL" height="25" />
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=plastic" alt="Micrsoft SQL" height="30" />
     </div>
 <br>
 
@@ -41,8 +41,8 @@
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic" alt="Numpy" height="30"/>
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic" alt="Pandas" height="25" />
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=plastic" alt="Tensorflow" height="25"/>
+    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic" alt="Pandas" height="30" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=plastic" alt="Tensorflow" height="30"/>
   
 </div>
 <br>
@@ -51,7 +51,7 @@
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <div align="center">
-    <a href="https://www.facebook.com/profile.php?id=100053951509859" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&style=plastic" height="25" ></a>
-    <a href="mailto:phantaiduc2005@duck.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" height="25" ></a>
-    <a href="https://www.kaggle.com/ducphan1001" target="_blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white&style=plastic" height="25" ></a>
+    <a href="https://www.facebook.com/profile.php?id=100053951509859" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&style=plastic" height="30" ></a>
+    <a href="mailto:phantaiduc2005@duck.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" height="30" ></a>
+    <a href="https://www.kaggle.com/ducphan1001" target="_blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white&style=plastic" height="30" ></a>
 </div>
