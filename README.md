@@ -4,7 +4,7 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic" alt="Python" height="25" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic" alt="Python" height="25" />
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic" alt="C" height="25" />
     </div>
 </div>
@@ -14,7 +14,7 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=plastic" alt="Github" height="25" />
+        <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=plastic" alt="Github" height="25" />
     </div>
 <br>
 
@@ -51,7 +51,7 @@
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <div align="center">
-    <a href="https://www.facebook.com/profile.php?id=100053951509859" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&style=plastic"></a>
-    <a href="mailto:phantaiduc2005@duck.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic"></a>
-    <a href="https://www.kaggle.com/ducphan1001" target="_blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white&style=plastic"></a>
+    <a href="https://www.facebook.com/profile.php?id=100053951509859" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&style=plastic" height="25" ></a>
+    <a href="mailto:phantaiduc2005@duck.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" height="25" ></a>
+    <a href="https://www.kaggle.com/ducphan1001" target="_blank"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white&style=plastic" height="25" ></a>
 </div>
