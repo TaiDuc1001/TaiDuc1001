@@ -34,7 +34,6 @@
         <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&style=plastic" alt="Arduino IDE" height="25" />
         <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=plastic" alt="Sublime text" height="25" />
 
-    </div>
 </div>
 <br>
 
