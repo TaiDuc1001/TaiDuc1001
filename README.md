@@ -30,9 +30,9 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=plastic" alt="VSCode" height="25" />
-        <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&style=plastic" alt="Arduino IDE" height="25" />
-        <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=plastic" alt="Sublime text" height="25" />
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=plastic" alt="VSCode" height="30" />
+        <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&style=plastic" alt="Arduino IDE" height="30" />
+        <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=plastic" alt="Sublime text" height="30" />
 
 </div>
 <br>
