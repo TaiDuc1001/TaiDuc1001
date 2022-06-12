@@ -14,7 +14,7 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=plastic" alt="Github" height="30" />
+        <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=plastic" alt="Github" height="30" />
     </div>
 <br>
 
