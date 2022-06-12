@@ -16,7 +16,7 @@
 <br>
 <div align="center">
     <div>
-        <img src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="Github" height="25" />
+        <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=for-the-badge" alt="Github" height="25" />
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25" />
     </div>
 <br>
