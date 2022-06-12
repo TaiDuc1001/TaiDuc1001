@@ -10,6 +10,8 @@
 </div>
 <br>
 
+<!-- ===========================THIS IS A LINE============================== -->
+
 <h2 align="center">🗃 Version Control 🗃</h2>
 <br>
 <div align="center">
@@ -19,7 +21,9 @@
     </div>
 <br>
 
+<!-- ===========================THIS IS A LINE============================== -->
     
+	
 <h2 align="center">💾 Databases 💾</h2>
 <br>
 <div align="center">
@@ -27,7 +31,10 @@
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Micrsoft SQL" height="25" />
     </div>
 <br>
-    
+
+<!-- ===========================THIS IS A LINE============================== -->	
+	
+	
 <h2 align="center">📚 Frameworks, Platforms and Libraries 📚 </h2>
 <br>
 <div align="center">
@@ -38,7 +45,9 @@
 </div>
 <br>
 
-    
+ <!-- ===========================THIS IS A LINE============================== -->
+   
+	
 <h2 align="center">🏫 Education  🏫</h2>
 <br>
 <div align="center">
@@ -47,7 +56,10 @@
         
 </div>
 <br>    
-    
+  
+<!-- ===========================THIS IS A LINE============================== -->
+	
+	
 <h2 align="center">👜 Cloud Storage 👜</h2>
 <br>
 <div align="center">
@@ -58,7 +70,10 @@
         
 </div>
 <br>    
-    
+  
+<!-- ===========================THIS IS A LINE============================== -->
+	
+	
 <h2 align="center">🤴 Developer/Forums 🤴</h2>
 <br>
 <div align="center">
@@ -68,8 +83,9 @@
 </div>
 <br>    
     
-    
-    
+<!-- ===========================THIS IS A LINE============================== -->
+	
+	
 <h2 align="center">🧰 IDEs/Editors 🧰</h2>
 <br>
 <div align="center">
@@ -77,23 +93,41 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="25" />
         <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" height="25" />
         <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=white" alt="Sublime text" height="25" />
-        <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="Sublime text" height="25" />
+        <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="Spyder IDE" height="25" />
 
 </div>
 <br>
 
+<!-- ===========================THIS IS A LINE============================== -->    
     
-    
+	
 <h2 align="center">📝 Machine Learning 📝</h2>
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" height="25"/>
     <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="25" />
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" height="25"/>
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="25"/>
   
 </div>
 <br>
-    
+
+<!-- ===========================THIS IS A LINE============================== -->    
+	
+	
+<h2 align="center">🥅 Other 🥅</h2>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" height="25"/>
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" height="25" />
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="25"/>
+  
+</div>
+<br>	
+	
+<!-- ===========================THIS IS A LINE============================== -->
+
+	
 <h2 align="center">🔎 Search Engines 🔎</h2>
 <br>
 <div align="center">
@@ -103,7 +137,10 @@
   
 </div>
 <br>
-  
+ 
+<!-- ===========================THIS IS A LINE============================== -->
+	
+	
 <h2 align="center">🎛️ Operating System 🎛️</h2>
 <br>
 <div align="center">
@@ -113,7 +150,10 @@
   
 </div>
 <br>    
-    
+   
+<!-- ===========================THIS IS A LINE============================== -->
+	
+	
 <h2 align="center">📞 Contact me 📞</h2>
 <br>
 <div align="center">
@@ -123,3 +163,9 @@
     <a href="https://linktr.ee/ducphan" target="top"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" height="25" ></a>
     <a href="https://t.me/ducky1001" target="top"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" ></a>
 </div>
+
+	
+<!-- =================================================THIS IS A VERY LONG LINE=================================================== -->
+	
+	
+	
