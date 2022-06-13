@@ -182,6 +182,7 @@
     <a href="https://www.kaggle.com/ducphan1001" target="top"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height="25" ></a>
     <a href="https://linktr.ee/ducphan" target="top"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" height="25" ></a>
     <a href="https://t.me/ducky1001" target="top"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" ></a>
+    <a href="https://quora.com/profile/Tài-Đức-Phan-1" target="top"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=for-the-badge" height="25" ></a>
 </div>
 
 	
