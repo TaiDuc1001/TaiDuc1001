@@ -48,14 +48,14 @@
  <!-- ===========================THIS IS A LINE============================== -->
    
 	
-<h2 align="center">🏫 Education  🏫</h2>
+<!-- <h2 align="center">🏫 Education  🏫</h2>
 <br>
 <div align="center">
     <div>
         <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" height="25" />
         
 </div>
-<br>    
+<br>     -->
   
 <!-- ===========================THIS IS A LINE============================== -->
 	
