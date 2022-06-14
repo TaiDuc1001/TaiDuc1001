@@ -6,7 +6,8 @@
     <div>
         <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" height="25" />
 <!--         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" height="25" /> -->
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic" alt="C++" height="25" />
+        <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic" alt="C++" height="25" />
+        <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin" height="25" />
     </div>
 </div>
 <br>
