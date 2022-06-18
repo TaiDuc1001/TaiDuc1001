@@ -163,6 +163,8 @@
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiDuc1001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
    <img width="434" src="https://github-readme-stats.vercel.app/api?username=TaiDuc1001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
 </div>
+    <p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=TaiDuc1001&theme=gotham&hide_border=true">
 <br>
 
 
@@ -192,3 +194,5 @@
 <!-- =================================================THIS IS A VERY LONG LINE=================================================== -->
 
 ![](https://komarev.com/ghpvc/?username=TaiDuc1001&style=plastic&color=brightgreen)
+    
+
