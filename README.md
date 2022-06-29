@@ -26,13 +26,13 @@
 <!-- ===========================THIS IS A LINE============================== -->
     
     
-<h2 align="center">💾 Databases 💾</h2>
+<!-- <h2 align="center">💾 Databases 💾</h2>
 <br>
 <div align="center">
     <div>
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Micrsoft SQL" height="25" />
     </div>
-<br>
+<br> -->
 
 <!-- ===========================THIS IS A LINE============================== -->    
     
