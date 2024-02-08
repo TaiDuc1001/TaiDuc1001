@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Phan Tai Duc</h1>
 <h3 align="center">A passionate AI developer in Vietnam</h3>
 
-- 🔭 I’m currently **a student**
+- 🔭 I’m currently **a student** at FPT University.
 
-- 🌱 I’m currently learning **AI base models and multimodal models** to do research
+- 🌱 I’m currently learning **AI base models and multimodal models** to do research.
 
-- 👯 I’m looking to collaborate on **a multimodal model project**
+- 👯 I’m looking to collaborate on **a multimodal model project**.
 
-- 💬 Ask me about **mathematics behind deep learning algorithms**
+- 💬 Ask me about **mathematics behind deep learning algorithms**.
 
 - 📫 How to reach me **phantaiduc2005@gmail.com**
 
