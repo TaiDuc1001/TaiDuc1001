@@ -1,196 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Phan Tai Duc</h1>
+<h3 align="center">A passionate AI developer in Vietnam</h3>
 
-<h2 align="center">💻 Programming Languages 💻</h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" height="25" />
-<!--         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" height="25" /> -->
-<!--         <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=plastic" alt="C++" height="25" /> -->
-        <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin" height="25" />
-    </div>
-</div>
-<br>
+- 🔭 I’m currently **a student**
 
-<!-- ===========================THIS IS A LINE============================== -->
+- 🌱 I’m currently learning **AI base models and multimodal models** to do research
 
-<h2 align="center">🗃 Version Control 🗃</h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/git-181717?logo=git&logoColor=orange&style=plastic%22%20alt=%22Git%22%20" height="25" />
-    </div>
-<br>
+- 👯 I’m looking to collaborate on **a multimodal model project**
 
-<!-- ===========================THIS IS A LINE============================== -->
-    
-    
-<!-- <h2 align="center">💾 Databases 💾</h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Micrsoft SQL" height="25" />
-    </div>
-<br> -->
+- 💬 Ask me about **mathematics behind deep learning algorithms**
 
-<!-- ===========================THIS IS A LINE============================== -->    
-    
-    
-<h2 align="center">📚 Frameworks, Platforms and Libraries 📚 </h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white" alt="Open CV" height="25" />
-        <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda" height="25" />
-              
-</div>
-<br>
+- 📫 How to reach me **phantaiduc2005@gmail.com**
 
- <!-- ===========================THIS IS A LINE============================== -->
-   
-    
-<!-- <h2 align="center">🏫 Education  🏫</h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=plastic&logo=microsoft&logoColor=white" alt="Microsoft Learn" height="25" />
-        
-</div>
-<br>     -->
-  
-<!-- ===========================THIS IS A LINE============================== -->
-    
-    
-<!-- <h2 align="center">👜 Cloud Storage 👜</h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=plastic&logo=Dropbox&logoColor=white" alt="Dropbox" height="25" />
-        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white" alt="Google Drive" height="25" />
-        <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=plastic&logo=Mega&logoColor=white" alt="Mega" height="25" />
-        
-</div>
-<br>     -->
-  
-<!-- ===========================THIS IS A LINE============================== -->
-    
-    
-<!-- <h2 align="center">🤴 Developer/Forums 🤴</h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=plastic&logo=Quora&logoColor=white" alt="Quora" height="25" />
-        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" alt="Stack Overflow" height="25" />     
-</div>
-<br>     -->
-    
-<!-- ===========================THIS IS A LINE============================== -->
-    
-    
-<h2 align="center">🧰 IDEs/Editors 🧰</h2>
-<br>
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode" height="25" />
-        <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=plastic&logo=arduino&logoColor=white" alt="Arduino IDE" height="25" />
-        <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=white&style=plastic" alt="Sublime text" height="25" />
-        <img src="https://img.shields.io/badge/Spyder-838485?style=plastic&logo=spyder%20ide&logoColor=maroon" alt="Spyder IDE" height="25" />
-        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white" alt="Android Studio" height="25" />
-</div>
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tai-duc-phan-563b19287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tai-duc-phan-563b19287" height="30" width="40" /></a>
+<a href="https://kaggle.com/ducphan1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ducphan1001" height="30" width="40" /></a>
+<a href="https://fb.com/ducphan1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ducphan1001" height="30" width="40" /></a>
+</p>
 
-<!-- ===========================THIS IS A LINE============================== -->    
-    
-    
-<h2 align="center">📝 Machine Learning 📝</h2>
-<br>
-<div align="center">
-    <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="Numpy" height="25"/>
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas" height="25" />
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="Tensorflow" height="25"/>
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" alt="Plotly" height="25"/>
-  
-</div>
-<br>
-
-<!-- ===========================THIS IS A LINE============================== -->    
-    
-    
-<h2 align="center">🥅 Other 🥅</h2>
-<br>
-<div align="center">
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" alt="Arduino" height="25"/>
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" alt="Notion" height="25" />
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" alt="Blender" height="25"/>
-  
-</div>
-<br>    
-    
-<!-- ===========================THIS IS A LINE============================== -->
-
-    
-<!-- <h2 align="center">🔎 Search Engines 🔎</h2>
-<br>
-<div align="center">
-    <img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=plastic&logo=Microsoft%20Bing&logoColor=white" alt="Bing" height="25"/>
-    <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=plastic&logo=DuckDuckGo&logoColor=white" alt="DuckDuckGo" height="25" />
-    <img src="https://img.shields.io/badge/google-4285F4?style=plastic&logo=google&logoColor=white" alt="Google" height="25"/>
-  
-</div>
-<br> -->
- 
-<!-- ===========================THIS IS A LINE============================== -->
-    
-    
-<h2 align="center">🎛️ Operating System 🎛️</h2>
-<br>
-<div align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" height="25" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu" height="25"/>
-    <img src="https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white" alt="Kali" height="25"/>
-  
-</div>
-<br>    
-   
-<!-- ===========================THIS IS A LINE============================== -->
-    
-<!-- ## 🏆GitHub Trophies -->
-<!-- ![](https://github-trophies.vercel.app/?username=TaiDuc1001&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
-### ✍️ Random Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- ===========================THIS IS A LINE============================== -->
-
-    
-<h2 align="center">📞 Contact me 📞</h2>
-<br>
-<div align="center">
-    <a href="https://www.facebook.com/profile.php?id=100053951509859" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white" height="25" ></a>
-    <a href="mailto:phantaiduc2005@duck.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="25" ></a>
-    <a href="https://www.kaggle.com/ducphan1001" target="top"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=plastic&logo=kaggle&logoColor=white" height="25" ></a>
-    <a href="https://linktr.ee/ducphan" target="top"><img src="https://img.shields.io/badge/linktree-1de9b6?style=plastic&logo=linktree&logoColor=white" height="25" ></a>
-    <a href="https://t.me/ducky1001" target="top"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" height="25" ></a>
-    <a href="https://quora.com/profile/Tài-Đức-Phan-1" target="top"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white&style=plastic" height="25" ></a>
-    <a href="https://stackoverflow.com/users/19331165" target="top"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic" height="25" ></a>
-    
-</div>
-
-    
-<!-- =================================================THIS IS A VERY LONG LINE=================================================== -->
-
-![](https://komarev.com/ghpvc/?username=TaiDuc1001&style=plastic&color=brightgreen)
-  
-    
-    
-    
-# 📊 GitHub Stats 📊
-<br>
-<div align="center">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiDuc1001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-   <img width="434" src="https://github-readme-stats.vercel.app/api?username=TaiDuc1001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
-</div>
-    <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=TaiDuc1001&theme=gotham&hide_title=true&area=true&radius=16&hide_border=true">
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
